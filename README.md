@@ -14,10 +14,10 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 
 * First, clone the repository and enter the folder
 
-```bash
-git clone https://github.com/sudoshivesh/LookSense.git
-cd LookSense
-```
+  ```bash
+  git clone https://github.com/sudoshivesh/LookSense.git
+  cd LookSense
+  ```
 
 * Download the [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013?resource=download) dataset inside the `src` folder.
 
