@@ -28,12 +28,12 @@ cd LookSense
   python emotions.py --mode train
   ```
 
-  * If you want to view the prediction without training again, I have already given a pre-trained model inside the src folder named as `LookSense/src/model.h5` then run the command:
+* If you want to view the prediction without training again, I have already given a pre-trained model inside the src folder named as `LookSense/src/model.h5` then run the command:
  
-```bash
-cd src
-python emotions.py --mode display
-```
+  ```bash
+  cd src
+  python emotions.py --mode display
+  ```
 
 *The folder structure is of the form:
   src:
