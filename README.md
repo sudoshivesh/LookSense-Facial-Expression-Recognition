@@ -49,6 +49,6 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 
   ![codeInterface-output](img/codeInterface-output.png)
   
-  ![coding-interface](coding-interface.png)
+  ![coding-interface](img/coding-interface.png)
 
 * For any query, You may conatct [Shivesh](https://wwww.linkedin.com/in/sudoshivesh/)
